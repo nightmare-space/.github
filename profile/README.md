@@ -1,12 +1,6 @@
-## Hi there 👋
+## 一切都是噩梦
+:warning:经过几年的努力，这个组织的绝大部分项目都没有达到我想要的状态。
 
-<!--
+自从 2020.07 正式成为社畜以来，我的精力就异常分散，已经无法支撑我在这种状态下还能开发出很好的个人作品，所以，抱歉。
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我现在希望能在成都买个小房子~
