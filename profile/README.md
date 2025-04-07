@@ -8,3 +8,5 @@
 
 ## 2024.0719
 我已经离开互联网，我将会尽我最大努力，将这个组织的项目维护起来
+
+![GitHub Org's stars](https://img.shields.io/github/stars/:org)
